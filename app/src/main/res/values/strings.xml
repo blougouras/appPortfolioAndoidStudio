@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projeto Portfólio</string>
+    <string name="nome">Luiz Henrique Blougouras Archeleigar</string>
+    <string name="descrição">
+        Meu nome é Luiz Henrique, tenho 19 anos e estou cursando Engenharia da Computação.
+        Gosto de programação, jogos, dados, computadores, séries e filmes.
+        Atualmente sou estágiario em monitoramento contábil e contas gráficas pelo Bradesco.
+        Programo em Python, SQL, Kotlin.
+        Tenho a vontade de atuar na área de dados como analista ou cientista de dados.
+        No momento estou focado nos estudos e na aprimoração da minha experiência na área de programação.
+        Meu github tem alguns do meus projetos, alguns feitos pela faculdade e outros feito por fora.
+    </string>
+</resources>
