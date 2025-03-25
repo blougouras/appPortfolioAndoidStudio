@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Projeto Portfólio</string>
     <string name="nome">Luiz Henrique Blougouras Archeleigar</string>
+    <string name="button">Projetos</string>
+    <string name="button2">Contatos</string>
     <string name="descrição">
         Meu nome é Luiz Henrique, tenho 19 anos e estou cursando Engenharia da Computação.
         Gosto de programação, jogos, dados, computadores, séries e filmes.
@@ -10,4 +12,8 @@
         No momento estou focado nos estudos e na aprimoração da minha experiência na área de programação.
         Meu github tem alguns do meus projetos, alguns feitos pela faculdade e outros feito por fora.
     </string>
+
+    <string name="textHeadingProjetos">Meus Projetos</string>
+    <string name="textHeadingContatos">Minhas Redes de Contato</string>
+    <string name="textButton">Voltar a Tela Inicial</string>
 </resources>

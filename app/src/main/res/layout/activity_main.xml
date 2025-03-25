@@ -15,7 +15,7 @@
         android:layout_height="150dp"
         android:layout_gravity="center"
         android:layout_marginTop="50dp"
-        android:src="@drawable/luiz" />
+        android:src="@drawable/foto"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -48,6 +48,26 @@
         android:layout_margin="10dp"
         android:background="@color/black">
     </View>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/button"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/button2"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"/>
 
 
 </LinearLayout>
