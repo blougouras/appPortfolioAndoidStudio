@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
                 this,
                 telaProjetos::class.java
             )
+            startActivity(intent)
         }
 
         button2 = findViewById(R.id.button2)
@@ -32,7 +33,9 @@ class MainActivity : AppCompatActivity() {
                 this,
                 telaContatos::class.java
             )
+            startActivity(intent)
         }
+
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
