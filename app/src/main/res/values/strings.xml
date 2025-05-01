@@ -16,4 +16,14 @@
     <string name="textHeadingProjetos">Meus Projetos</string>
     <string name="textHeadingContatos">Minhas Redes de Contato</string>
     <string name="textButton">Voltar a Tela Inicial</string>
+    <string name="email">Email: luizblougouras5@gmail.com</string>
+    <string name="whats">Whatsapp: (11) 99458–9646</string>
+    <string name="linkedin">Acesse meu <a href="https://www.linkedin.com/in/luizblougouras">LinkedIn</a></string>
+    <string name="github">Veja meu <a href="https://github.com/blougouras">GitHub</a></string>
+
+    <string name="proj1">Navengando entre Telas: <a href="https://github.com/blougouras/navegandoTelas_androidStudio">Link do Repositório</a></string>
+    <string name="proj2">App Portfólio: <a href="https://github.com/blougouras/appPortfolioAndoidStudio">Link do Repositório</a></string>
+    <string name="proj3">App Agenda: <a href="https://github.com/blougouras/appAgenda">Link do Repositório</a></string>
+    <string name="proj4">App API: <a href="https://github.com/blougouras/appAPI">Link do Repositório</a></string>
+
 </resources>
